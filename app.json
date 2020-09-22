@@ -1,0 +1,12 @@
+{
+  "name": "prince-todo",
+  "displayName": "prince-todo",
+  "expo": {
+    "name": "prince-todo",
+    "slug": "prince-todo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
